@@ -2,6 +2,7 @@
     "extends": [
         "@rocketseat/eslint-config/node"
     ],
+    "ignorePatterns": "*.js",
     "rules": {
         "prettier/prettier": [
             "error",
